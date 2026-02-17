@@ -1,0 +1,4 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="MoozDance" tvg-name="MoozDance TV" tvg-logo="https://raw.githubusercontent.com/jhruby49/moozdance-tv/main/moozdance-tv.png" group-title="Music",MoozDance TV
+https://rtmp.digitalbroadcast.ro/moozdance/moozdance.m3u8
